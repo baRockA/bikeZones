@@ -7,3 +7,8 @@ canvas {
     margin-top: 20px;
     width: 100%;
 }
+
+#zoneChart{
+    height: 2em;
+    width: 100%;
+}
